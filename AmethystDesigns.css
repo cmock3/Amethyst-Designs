@@ -1,0 +1,24 @@
+html { background:darkviolet; }
+body { 
+    font-size: 24px;
+    color: darkviolet;
+    background: plum;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 2rem;
+    border: 6px solid lightgray;
+    border-radius: 5px;
+  font-family: "Homemade Apple";
+
+}
+h1 {color: purple; font-family:"Sofia Sans Condensed"; 
+   
+ }
+
+h2 {color: purple; font-family:"Sofia Sans Condensed"; 
+
+}
+
+h3 { font-family:"Sofia Sans Condensed";
+
+}

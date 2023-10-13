@@ -1,0 +1,67 @@
+
+ul.horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: purple;
+    font-size: 30px
+
+}
+
+ul.horizontal li {
+    float: left;
+}
+
+ul.horizontal li a {
+    display: block;
+    color: plum;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+ul.horizontal li a:hover {
+    background-color: purple;
+}
+
+
+
+
+/* vertical example below */
+
+
+ul.vertical {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+ul.vertical li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+ul.vertical li a:hover {
+    background-color: purple;
+    color: white;
+}
+body { 
+    font-size: 24px;
+    color: darkviolet;
+    background: plum;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 2rem;
+    border: 0px solid lightgray;
+    border-radius: 5px;
+  font-family: "Homemade Apple";
+    
+
+}
